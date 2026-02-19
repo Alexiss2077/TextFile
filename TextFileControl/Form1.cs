@@ -32,7 +32,7 @@ namespace TextFileControl
       dataGridView1.CellValueNeeded += DataGridView1_CellValueNeeded;
     }
 
-    private void CargarCSV(string rutaArchivo)
+    private void CargarCSV(string rutaArchivo)////
     {
       try
       {
